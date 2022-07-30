@@ -1,0 +1,20 @@
+ID,Variable,RR,LCI,UCI
+1,Poorest HH wealth,1.33,1.23,1.4
+2,Not Working,1.09,1.04,1.13
+3,Not Married,1.1,0.99,1.13
+4,Rural,1.12,1.05,1.19
+5,No Vitamin A Supplememt,0.95,0.9,0.99
+7,Respiratory infection,5.5,5.3,5.7
+8,Not fully vaccinated,1.03,1,1.07
+9,Unsafe stool disposal,0.997,0.95,1.05
+10,< 4 ANC visits,1.06,1.02,1.11
+11,7-24 mo vs. 7 mo,1.56,1.49,1.64
+12,25-59 mo vs. 7 mo,1.51,1.43,1.6
+13,Lack of education,1.25,1.1,1.41
+14,Lack of family planning,1.05,1.001,1.11
+15,Male,1.009,0.97,1.05
+16,Indoor Pollution,0.99,0.92,1.07
+17,Diarrhea,3,2.8,3.1
+18,Unsafe water,1.03,0.99,1.07
+19,Young Mother,1.07,0.99,1.16
+20,Delayed breastfeeding,1.18,1.14,1.22
