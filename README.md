@@ -1,1 +1,1 @@
-# Fevers_in_SubSahran_Africa
+# Fevers_in_SubSaharan_Africa
